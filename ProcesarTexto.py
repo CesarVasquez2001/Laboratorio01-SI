@@ -57,10 +57,6 @@ def procesar(archivo):
         file.write(contenido)
 
 
-
-
- 
-
 # Ejemplo de uso
 archivo = "POEMA.txt"
 procesar(archivo)

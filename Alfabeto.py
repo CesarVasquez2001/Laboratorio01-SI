@@ -17,4 +17,4 @@ nombre_archivo_preprocesado = "POEMA_ALFABETO.txt"
 with open(nombre_archivo_preprocesado, "w") as archivo_preprocesado:
     archivo_preprocesado.write(contenido_preprocesado)
 
-print("Archivo preprocesado guardado correctamente.")
+print("Archivo unicode-8 convertido a texto segun alfabeto guardado correctamente.")
